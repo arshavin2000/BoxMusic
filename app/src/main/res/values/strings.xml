@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicBox</string>
+    <string name="description">round image view</string>
+    <string name="songName">Song name</string>
+    <string name="songArtist">Song Artist</string>
+    <string name="time">0:00</string>
+</resources>
